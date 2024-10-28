@@ -1,6 +1,6 @@
 {
   "name": "@helia-react-components/helia-provider",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A React Provider, Context, and hook component for Helia",
   "license": "Apache-2.0 OR MIT",
   "homepage": "https://github.com/ipfs/helia/tree/main/packages/helia#readme",
