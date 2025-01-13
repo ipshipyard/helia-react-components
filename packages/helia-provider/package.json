@@ -56,7 +56,7 @@
   },
   "devDependencies": {
     "@testing-library/react": "^16.0.1",
-    "@types/react": "^18.3.12",
+    "@types/react": "^19.0.6",
     "aegir": "^44.0.1",
     "helia": "^5.1.0",
     "p-defer": "^4.0.1"
